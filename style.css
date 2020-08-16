@@ -1,0 +1,11 @@
+.box{
+	min-height: 80px;
+	background-color: white;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: blue;
+	text-align: center;
+}
+.red{
+	background-color: green;
+}
